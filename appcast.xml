@@ -3,12 +3,23 @@
     <channel>
         <title>Notey</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Wed, 22 Apr 2026 14:18:46 -0400</pubDate>
+            <sparkle:version>202604221414</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.1/Notey-0.2.1.zip" length="86874952" type="application/octet-stream" sparkle:edSignature="p1wHwCF1mOoTzzZsS2IprvaLPrblBnfjNq+XTWfaYgO7HKrtOlIHiySvok3FLTulAtuAopbc2iLaCxRTbn7JBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.1/Notey202604221414-202604221349.delta" sparkle:deltaFrom="202604221349" length="419682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MarLokWk8b15ZWWBb6JER6X0hue2BCgTuMvHXVKe7KhOo44ziuTPfYxjVJyoJWUn2x5xKgFfXhh0b1YYjDEqDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 22 Apr 2026 13:51:23 -0400</pubDate>
             <sparkle:version>202604221349</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.0/Notey-0.2.0.zip" length="86853094" type="application/octet-stream" sparkle:edSignature="NnDXmDSGPFy+Dz5zw05HjzGQsVGjtJA1Jw5pC8+uJoOSvTuThHm4SYWzAlafd2Mfec1IxZLdOqQuPx/NTdaRBg=="/>
+            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.1/Notey-0.2.0.zip" length="86853094" type="application/octet-stream" sparkle:edSignature="NnDXmDSGPFy+Dz5zw05HjzGQsVGjtJA1Jw5pC8+uJoOSvTuThHm4SYWzAlafd2Mfec1IxZLdOqQuPx/NTdaRBg=="/>
         </item>
     </channel>
 </rss>
