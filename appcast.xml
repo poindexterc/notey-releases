@@ -3,19 +3,27 @@
     <channel>
         <title>Notey</title>
         <item>
+            <title>0.2.5.6</title>
+            <pubDate>Fri, 24 Apr 2026 12:21:11 -0400</pubDate>
+            <sparkle:version>202604241218</sparkle:version>
+            <sparkle:shortVersionString>0.2.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.6/Notey-0.2.5.6.zip" length="150895154" type="application/octet-stream" sparkle:edSignature="ZSTUAKGY8BGGeOR4ekaQ6jUBXWhUvhMLyDal2Pc/RiXbe7OsnbLMdeSD9vrgohEJgAqXDCgTN5UVX7MXpJoiBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.6/Notey202604241218-202604241207.delta" sparkle:deltaFrom="202604241207" length="306418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TgVfWKdZ0vKrpmt7ErT5+oqbrb+vEE9CIR972GymlJeW6lBMETvVVX9Yyr3o2bWKUQlHkGVvIqrC7I79yx6YCA=="/>
+                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.6/Notey202604241218-202604241126.delta" sparkle:deltaFrom="202604241126" length="378574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LCViT2wZMyI6vVqLcxggmF3bEdeuBXDYwbseGGZ1tXgjEEysr3aIkh0u7ulOx31CilIPF1yFpW2JDj3+slFZAg=="/>
+                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.6/Notey202604241218-202604241115.delta" sparkle:deltaFrom="202604241115" length="360834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FeieOXM85jZARG8J37GyZwG/VMOVv6Z9NMVbHqcWV1PmrFe/55skIDgz3r6ZHrD4BKxYNuQzHBUE7wtGAT25CQ=="/>
+                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.6/Notey202604241218-202604241043.delta" sparkle:deltaFrom="202604241043" length="360966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XH5gjhrVlTF48EraEy+xyDectPuWlE4DN+sUUJXokUA67fC8zpO6Kmkj90o+ACLPc6qIKNhq8xWgLNkfWoqKBQ=="/>
+                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.6/Notey202604241218-202604231937.delta" sparkle:deltaFrom="202604231937" length="438842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HDqXYVOuvjtrTxrb2TN4+uDta0CR+GGyN9Y/bNjA6MxTQcul26o7KcijM3Q70MceDBbFxr7GitYhySr89HWjAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.5.5</title>
             <pubDate>Fri, 24 Apr 2026 12:10:08 -0400</pubDate>
             <sparkle:version>202604241207</sparkle:version>
             <sparkle:shortVersionString>0.2.5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.5/Notey-0.2.5.5.zip" length="150895019" type="application/octet-stream" sparkle:edSignature="LeprcN+56baoO/M8IHhD9EpTLw1rVpzCKrHpQe0kuuQJdF8NkTmtbj3ZwOx7Bwr6pwhD05oQJStTvuzC2aAHCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.5/Notey202604241207-202604241126.delta" sparkle:deltaFrom="202604241126" length="374134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pEfIy86Pc7lyId0yKVnmC3H3LFUB6JnTjIaMbX1ZsyoHoe7eiVK7fqfcbHIz9ebOeUUwROW80cfjhlm/Pvt+Ag=="/>
-                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.5/Notey202604241207-202604241115.delta" sparkle:deltaFrom="202604241115" length="363838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gUyiGwc1/z8AN1M80dzPLqTSvl64GIu9hxq2BHAriMIdNHmU35n+vo1FkDqSdb02Bb+J8fjnLGgduL/erzAjBQ=="/>
-                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.5/Notey202604241207-202604241043.delta" sparkle:deltaFrom="202604241043" length="364050" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CTB9SkbDs6Dw0KOQIrKBsF0hA66HI9gh45ipD2nLnC0Rwxm0sR1JMjqurGxb11On6kSyZpOylK+7IYD1peZ3BQ=="/>
-                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.5/Notey202604241207-202604231937.delta" sparkle:deltaFrom="202604231937" length="445822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4yueqYlxDtsP1JaW41qb8P/G94TO5oL3vQjvqZaMuzBKl+q2TEZ81YYtdsXAVYjymlfP0oyCEfmXIp1pvcUWDw=="/>
-                <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.5/Notey202604241207-202604231754.delta" sparkle:deltaFrom="202604231754" length="747278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9/vsrY1hCm4gaGE0BQdT+nopezF53X0DIAyp2OmCt6pe3r0h+On3FdHRvCYpPd/B3B0zmz6xrit9O1+xJjPzCg=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.6/Notey-0.2.5.5.zip" length="150895019" type="application/octet-stream" sparkle:edSignature="LeprcN+56baoO/M8IHhD9EpTLw1rVpzCKrHpQe0kuuQJdF8NkTmtbj3ZwOx7Bwr6pwhD05oQJStTvuzC2aAHCQ=="/>
         </item>
         <item>
             <title>0.2.5.4</title>
@@ -23,15 +31,7 @@
             <sparkle:version>202604241126</sparkle:version>
             <sparkle:shortVersionString>0.2.5.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.5/Notey-0.2.5.4.zip" length="150894097" type="application/octet-stream" sparkle:edSignature="7hs8Dv/OC1jXcP/72T4jcGPMagYhO3bdCfen25mekFQDB7PiQ/vjtEhsO2/FwseqOh6zoqhLLi7Kqvu4T8D8BA=="/>
-        </item>
-        <item>
-            <title>0.2.5.3</title>
-            <pubDate>Fri, 24 Apr 2026 11:17:30 -0400</pubDate>
-            <sparkle:version>202604241115</sparkle:version>
-            <sparkle:shortVersionString>0.2.5.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.5/Notey-0.2.5.3.zip" length="150892007" type="application/octet-stream" sparkle:edSignature="fBoaN3XnmgoTinOgl/JEgpUFt4YNfOy1MK/APyfYti6LgErJuGyOF4tBJ4AFHTTXkg+K6gj3Yw5NUl+QGtAmCw=="/>
+            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.5.6/Notey-0.2.5.4.zip" length="150894097" type="application/octet-stream" sparkle:edSignature="7hs8Dv/OC1jXcP/72T4jcGPMagYhO3bdCfen25mekFQDB7PiQ/vjtEhsO2/FwseqOh6zoqhLLi7Kqvu4T8D8BA=="/>
         </item>
     </channel>
 </rss>
