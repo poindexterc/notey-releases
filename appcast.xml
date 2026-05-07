@@ -3,12 +3,20 @@
     <channel>
         <title>Notey</title>
         <item>
+            <title>0.2.7.6</title>
+            <pubDate>Thu, 07 May 2026 15:40:51 -0400</pubDate>
+            <sparkle:version>202605071538</sparkle:version>
+            <sparkle:shortVersionString>0.2.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.7.6/Notey-0.2.7.6.zip" length="155996912" type="application/octet-stream" sparkle:edSignature="2xKZ4/U4MUNLj4wFfMazESxvosG6Z1Sj1v6JfxidkFJgLkxmWpVahpX40xbLiHYtoMNc57LSJjpTD6HCE7tOBQ=="/>
+        </item>
+        <item>
             <title>0.2.7.5</title>
             <pubDate>Tue, 05 May 2026 17:05:02 -0400</pubDate>
             <sparkle:version>202605051702</sparkle:version>
             <sparkle:shortVersionString>0.2.7.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.7.5/Notey-0.2.7.5.zip" length="155985401" type="application/octet-stream" sparkle:edSignature="IvRg74j8mMAx4VjUfjcRuNW2SgLcPBmsxOp3X0rcnxt6OV70LBvoKoibxNuy0CZRjiduY+PF3KiB2edHrTF5BQ=="/>
+            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.7.6/Notey-0.2.7.5.zip" length="155985401" type="application/octet-stream" sparkle:edSignature="IvRg74j8mMAx4VjUfjcRuNW2SgLcPBmsxOp3X0rcnxt6OV70LBvoKoibxNuy0CZRjiduY+PF3KiB2edHrTF5BQ=="/>
         </item>
         <item>
             <title>0.2.7.4</title>
@@ -16,15 +24,7 @@
             <sparkle:version>202605051259</sparkle:version>
             <sparkle:shortVersionString>0.2.7.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.7.5/Notey-0.2.7.4.zip" length="155978412" type="application/octet-stream" sparkle:edSignature="FlKeOqibkkc8Ueq9JhKyP3zKx0J9PquTMSIxvbST2K67kaRnmO0ajWnZPMm6LzedVY4k/exEqQPuS8jdJnNSBQ=="/>
-        </item>
-        <item>
-            <title>0.2.7.3</title>
-            <pubDate>Mon, 04 May 2026 22:29:13 -0400</pubDate>
-            <sparkle:version>202605042226</sparkle:version>
-            <sparkle:shortVersionString>0.2.7.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.7.5/Notey-0.2.7.3.zip" length="155972073" type="application/octet-stream" sparkle:edSignature="tg3ryZnP8cDIs0Jebvek7piY9DuxKNBVs1ZtYOOTJ1k/T9Kf3AT1IOUG9Pv+mUNH7WYP4Ad98sbozWPztQ0sBQ=="/>
+            <enclosure url="https://github.com/poindexterc/notey-releases/releases/download/v0.2.7.6/Notey-0.2.7.4.zip" length="155978412" type="application/octet-stream" sparkle:edSignature="FlKeOqibkkc8Ueq9JhKyP3zKx0J9PquTMSIxvbST2K67kaRnmO0ajWnZPMm6LzedVY4k/exEqQPuS8jdJnNSBQ=="/>
         </item>
     </channel>
 </rss>
